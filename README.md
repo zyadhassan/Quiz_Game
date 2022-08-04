@@ -6,8 +6,8 @@ to run the game donwelod all files in the same diractory then run the Quiz_Game.
 
 ## Modes 
 there two modes of the game 
-First is to finish the quiz by First Mistake
-Second is to Finish the quiz by the end of Questions
+First is to finish the quiz by First Mistake\n
+Second is to Finish the quiz by the end of Questions\n
 
 ## Snap
 
