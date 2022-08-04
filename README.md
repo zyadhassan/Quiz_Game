@@ -5,7 +5,7 @@ Quiz_Game implemented by python as an applicaton on OOP concepts
 to run the game donwelod all files in the same diractory then run the Quiz_Game.py
 <br />
 ## Modes 
-there two modes of the game 
+there two modes of the game <br />
 First is to finish the quiz by First Mistake<br />
 Second is to Finish the quiz by the end of Questions<br />
 <br />
